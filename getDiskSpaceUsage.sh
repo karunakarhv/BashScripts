@@ -1,5 +1,5 @@
 #!/bin/bash
-#echo karunakar
+
 echo "df - report file system disk space usage";
 
 echo "df displays the amount of disk space available on the file system
